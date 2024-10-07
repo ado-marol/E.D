@@ -10,3 +10,4 @@ Video Rebobinar(const Video &V){
 int main(int argc, char * argv[]){
 //RELLENAR POR EL ESTUDIANTE
 }
+//ñknskdaskdksal
