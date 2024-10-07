@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Práctica 1. Imágenes"
+OUTPUT_DIRECTORY       = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/cmake-build-debug/doc_doxygen/
+INPUT                  = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/.//include /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/.//src /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/.//doc
+GENERATE_LATEX         = NO
+IMAGE_PATH             = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/.//doc
+EXTRACT_PRIVATE        = NO
