@@ -2,7 +2,7 @@
 #include "video.h"
 //COMPLETAR POR EL ESTUDIANTE
 
-// WHBEGWQUBEUHQWBEHIQBIEWQIHBEHWIQEIOBQ
+
 void read_directory(const std::string& name, vector<string>& v)
 {
     DIR* dirp = opendir(name.c_str());
@@ -14,8 +14,8 @@ void read_directory(const std::string& name, vector<string>& v)
     }
     closedir(dirp);
 }
-// gfhgh
 
+// me encanta la diqhweuwqbeq
 Video::Video(){
     //COMPLETAR POR EL ESTUDIANTE
 }
@@ -27,6 +27,7 @@ Video::Video(int n){
 Video::Video(const Video &V){
 //COMPLETAR POR EL ESTUDIANTE
 
+    //wow
 }
 /**************************************************/
 Video::~Video(){}
