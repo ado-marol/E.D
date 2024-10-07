@@ -14,7 +14,7 @@ void read_directory(const std::string& name, vector<string>& v)
     }
     closedir(dirp);
 }
-
+// gfhgh
 
 Video::Video(){
     //COMPLETAR POR EL ESTUDIANTE

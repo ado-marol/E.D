@@ -1,4 +1,4 @@
-# Install script for directory: /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA
+# Install script for directory: /home/ismael/Escritorio/UGR/ED/E.D/Video_TDA
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ismael/Escritorio/UGR/ED/E.D/Video_TDA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

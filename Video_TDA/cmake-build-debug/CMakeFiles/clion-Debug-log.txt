@@ -1,6 +1,6 @@
-/opt/CLion/CLion-2024.2.1/clion-2024.2.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion/CLion-2024.2.1/clion-2024.2.1/bin/ninja/linux/x64/ninja -G Ninja -S "/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA" -B "/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/cmake-build-debug"
--- The C compiler identification is GNU 11.4.0
--- The CXX compiler identification is GNU 11.4.0
+/snap/clion/296/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/ismael/Escritorio/UGR/ED/E.D/Video_TDA -B /home/ismael/Escritorio/UGR/ED/E.D/Video_TDA/cmake-build-debug
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
 -- Check for working C compiler: /usr/bin/cc - skipped
@@ -11,8 +11,8 @@
 -- Check for working CXX compiler: /usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Found Doxygen: /usr/bin/doxygen (found version "1.9.1") found components: doxygen dot
+-- Found Doxygen: /usr/bin/doxygen (found version "1.9.8") found components: doxygen missing components: dot
 Doxygen build started
--- Configuring done (0.6s)
+-- Configuring done (0.9s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas Remotas/E.D/Video_TDA/cmake-build-debug
+-- Build files have been written to: /home/ismael/Escritorio/UGR/ED/E.D/Video_TDA/cmake-build-debug
