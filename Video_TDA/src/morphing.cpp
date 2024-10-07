@@ -8,7 +8,7 @@ Video Morphing(const Image &I1,const Image &I2,int nframes){
 //wowowowow
 }
 
-
+// la funcion main es muy bonita
 int main(int argc, char * argv[]){
 //RELLENAR POR EL ESTUDIANTE
 }
