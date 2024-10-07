@@ -2,6 +2,7 @@
 #include "video.h"
 //COMPLETAR POR EL ESTUDIANTE
 
+// WHBEGWQUBEUHQWBEHIQBIEWQIHBEHWIQEIOBQ
 void read_directory(const std::string& name, vector<string>& v)
 {
     DIR* dirp = opendir(name.c_str());
