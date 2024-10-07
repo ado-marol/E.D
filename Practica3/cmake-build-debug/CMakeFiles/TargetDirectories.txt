@@ -1,7 +1,0 @@
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/image.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/rebobinar.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/morphing.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/doc_doxygen.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/mrproper.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/CMakeFiles/rebuild_cache.dir

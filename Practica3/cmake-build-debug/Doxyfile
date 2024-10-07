@@ -1,6 +1,0 @@
-PROJECT_NAME           = "Práctica 1. Imágenes"
-OUTPUT_DIRECTORY       = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/cmake-build-debug/doc_doxygen/
-INPUT                  = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/.//include /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/.//src /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/.//doc
-GENERATE_LATEX         = NO
-IMAGE_PATH             = /home/adolfo/Desktop/Segundo/Estructuras de Datos/Practicas/Practica 3/mini_practica1_TDA-Video_Prado/estudiante/.//doc
-EXTRACT_PRIVATE        = NO
